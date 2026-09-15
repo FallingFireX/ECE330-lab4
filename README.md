@@ -48,6 +48,9 @@ first)*
 
 feedface
 
+**Explain what the .org assembler directive does.**
+
+Asnwer here
 
 
 **Value of B and W in hex**
