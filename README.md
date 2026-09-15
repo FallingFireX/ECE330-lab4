@@ -42,3 +42,14 @@ str   r7,[r4,#8]
 *i. Screenshot the memory (bytes) for the data section bounded by the begin
 and end coremarks. Circle and identify the bytes for the variables X, Y and Z (step thru program 
 first)*
+
+
+**value of W variable**
+
+feedface
+
+
+
+**Value of B and W in hex**
+B= aaaaaa55, W= 11223344
+
