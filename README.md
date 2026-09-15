@@ -53,3 +53,6 @@ feedface
 **Value of B and W in hex**
 B= aaaaaa55, W= 11223344
 
+
+**Value of A, B and C in hex**
+A = b9e3 B= a57b C= ffff
