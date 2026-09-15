@@ -1,26 +1,26 @@
 **a. What is the value of label Z?**
 
-Answer here
+0x0000debf
 
 
 **b. What is the value of the data referenced by the label Y? (hex)**
 
-Answer here
+0xddd5aaea
 
 
 **c. What is the value of the data referenced by the label Y? (decimal)**
 
-Answer here
+3721767658
 
 
 **d. What memory address is referenced by the label Y? (hex)**
 
-Answer here
+0x0000011a
 
 
 **e. What memory address is referenced by the label X?**
 
-Answer here
+0x00000118
 
 
 **f. What is the machine instruction at location 0x8 of the .text section?**
