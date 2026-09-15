@@ -25,18 +25,18 @@
 
 **f. What is the machine instruction at location 0x8 of the .text section?**
 
-Answer here
+ldrb  r5,[r4,#4]
 
 
 **g. What is the offset value of the instruction at location 0x14 of the .text
 section?**
 
-Answer here
+str   r7,[r4,#8]
 
 
 **h. What will the contents of register r7 be at completion of execution (hex)?**
 
-Answer here
+0x0000debf
 
 
 *i. Screenshot the memory (bytes) for the data section bounded by the begin
